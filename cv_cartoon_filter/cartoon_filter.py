@@ -140,7 +140,7 @@ def main():
     PROC_W, PROC_H = 480, 360
     DISPLAY_SCALE = 1.5
     K_COLORS = 8
-    FLAME_VIDEO = r"C:\Users\24214\Desktop\flame-animation-gif-download-4786522.mp4"
+    FLAME_VIDEO = r"flame-animation-gif-download-4786522.mp4"
     
     # 下载模型
     model_path = "hand_landmarker.task"
